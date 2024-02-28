@@ -53,6 +53,10 @@ Assignment: [Enable GitHub Copilot](./lab.md#Assignment-2-Enable-GitHub-Copilot)
 
 Use the [included lab](./lab.md) for this week to apply the concepts you've learned. The [lab](./lab.md) lab has 3 parts that are all relevant for what you've learned this week.
 
+### Important Note
+
+This codespace has been modified to perform sudo apt-get update and sudo apt-get upgrade -y. These commands ensure that you are running the most recent versions of any programs and the operating system. If you do not want this, you will need to edit the Dockerfile file.
+
 ## Resources
 
 - [Rust Book](https://doc.rust-lang.org/book/)
